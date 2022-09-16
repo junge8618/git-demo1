@@ -10,5 +10,6 @@ public class GitHello {
         System.out.println("server test");
         System.out.println("server test2");
         System.out.println("fix commit test");
+        System.out.println("fix commit test22");
     }
 }
